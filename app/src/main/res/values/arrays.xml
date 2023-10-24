@@ -1,0 +1,6 @@
+<resources>
+    <array name="calculation_types">
+        <item>Words</item>
+        <item>Characters</item>
+    </array>
+</resources>

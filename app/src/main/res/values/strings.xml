@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">myapplication</string>
+
+    <string name="toast_empty_input">įveskite tekstą.</string>
+    <string name="calculation_words">žodžiai</string>
+    <string name="label_count">Skaičius: %1$d</string>
+</resources>
